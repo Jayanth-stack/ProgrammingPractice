@@ -1,4 +1,7 @@
-// Source: LeetCode ( https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+//Leetcode 82. Remove Duplicates from Sorted List II
+
+package LinkedList;
+
 public class ListNode {
     int val;
     ListNode next;
