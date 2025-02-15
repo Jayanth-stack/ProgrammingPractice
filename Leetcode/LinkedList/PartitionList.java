@@ -1,6 +1,6 @@
 // Source: LeetCode 86. Partition List
 
-package LinkedList;
+package Leetcode.LinkedList;
 
 public class PartitionList{
     public class ListNode{

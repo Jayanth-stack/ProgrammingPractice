@@ -1,6 +1,6 @@
 //Leetcode 82. Remove Duplicates from Sorted List II
 
-package LinkedList;
+package Leetcode.LinkedList;
 
 public class ListNode {
     int val;
