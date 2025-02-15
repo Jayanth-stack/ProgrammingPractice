@@ -1,3 +1,5 @@
+// leetcode equal row and column 2352.
+
 package Leetcode.HashMap;
 
 public class EqualRowAndColumn {
