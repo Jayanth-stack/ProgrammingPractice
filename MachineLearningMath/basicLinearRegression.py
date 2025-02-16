@@ -1,3 +1,8 @@
+## Basic Linear Regression Model
+## This is a simple linear regression model that predicts test scores based on the number of hours studied.
+## The model is trained on a small dataset with 5 data points and tested on a single data point.
+## The model is then saved to a file and loaded back to make predictions.
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
