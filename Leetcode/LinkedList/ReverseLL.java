@@ -1,5 +1,4 @@
 package Leetcode.LinkedList;
-import java.util.List;
 
 public class ReverseLL{
 
