@@ -1,6 +1,6 @@
 //leetcode 209 Minimum Size Subarray Sum
 
-package Leetcode.SlidingWindow;
+package DSA.Leetcode.SlidingWindow;
 
 class Solution{
     public int minSubArrayLen(int s, int[] nums){

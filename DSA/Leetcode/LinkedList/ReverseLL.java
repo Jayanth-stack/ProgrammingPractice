@@ -1,4 +1,4 @@
-package Leetcode.LinkedList;
+package DSA.Leetcode.LinkedList;
 
 public class ReverseLL{
 

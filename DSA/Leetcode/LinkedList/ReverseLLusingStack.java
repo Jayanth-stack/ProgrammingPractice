@@ -1,4 +1,4 @@
-package Leetcode.LinkedList;
+package DSA.Leetcode.LinkedList;
 import java.util.Stack;
 
 public class ReverseLLusingStack {

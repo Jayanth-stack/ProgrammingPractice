@@ -1,7 +1,7 @@
 // You are given two strings word1 and word2. You must perform the following operation any number of times:
 //Leetcode Problem: 1657. Determine if Two Strings Are Close
 
-package Leetcode.HashMap;
+package DSA.Leetcode.HashMap;
 
 import java.util.Arrays;
 import java.util.Set;

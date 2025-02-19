@@ -3,7 +3,7 @@
 //A twin node is defined as two nodes in the linked list that are at the same distance from the head and whose sum is maximum among all such pairs. If there are no twin nodes in the linked list, return 0.
 // Leetcode 2130. Max Twin Sum
 
-package Leetcode.LinkedList;
+package DSA.Leetcode.LinkedList;
 
 import java.util.ArrayList;
 import java.util.List;

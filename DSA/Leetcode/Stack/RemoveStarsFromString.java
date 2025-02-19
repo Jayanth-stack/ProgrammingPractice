@@ -1,7 +1,7 @@
 // Remove consecutive stars from the string
 // Leetcode 2340. Remove Consecutive Characters
 
-package Leetcode.Stack;
+package DSA.Leetcode.Stack;
 
 import java.util.Stack;
 

@@ -1,7 +1,7 @@
 // Flowerbed
 // Leetcode problem 605
 
-package Leetcode.Arrays;
+package DSA.Leetcode.Arrays;
 
 public class Flowerbed {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {

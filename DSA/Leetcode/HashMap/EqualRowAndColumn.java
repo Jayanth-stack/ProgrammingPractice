@@ -1,6 +1,6 @@
 // leetcode equal row and column 2352.
 
-package Leetcode.HashMap;
+package DSA.Leetcode.HashMap;
 
 public class EqualRowAndColumn {
     public int equalRowandColumn(int[][] grid){

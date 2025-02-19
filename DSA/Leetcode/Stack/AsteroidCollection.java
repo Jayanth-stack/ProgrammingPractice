@@ -3,7 +3,7 @@
 // Leetcode Difficulty: Medium
 // Leetcode 735. Asteroid Collision
 
-package Leetcode.Stack;
+package DSA.Leetcode.Stack;
 import java.util.Stack;
 
 public class AsteroidCollection {

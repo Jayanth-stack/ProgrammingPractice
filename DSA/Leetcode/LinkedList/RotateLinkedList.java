@@ -1,6 +1,6 @@
 // Rotate a linked list to the right by k places
 // Given a linked list, rotate the list to the right by k places, where k is non-negative.
-package Leetcode.LinkedList;
+package DSA.Leetcode.LinkedList;
 
 public class RotateLinkedList {
     public class ListNode{

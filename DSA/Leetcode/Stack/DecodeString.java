@@ -1,7 +1,7 @@
 // Decode String
 // Leetcode Question: 394
 
-package Leetcode.Stack;
+package DSA.Leetcode.Stack;
 
 public class DecodeString {
 

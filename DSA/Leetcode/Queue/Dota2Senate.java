@@ -1,7 +1,7 @@
 // Dota2 Senate
 // Leetcode 394
 
-package Leetcode.Queue;
+package DSA.Leetcode.Queue;
 
 import java.util.Deque;
 import java.util.ArrayDeque;
